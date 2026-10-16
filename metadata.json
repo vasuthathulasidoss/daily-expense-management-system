@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense Management System",
+  "description": "Production-ready Daily Expense Management System with PHP 8+, MySQL PDO, Vanilla JS, Chart.js, and XAMPP/WAMP deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
